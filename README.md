@@ -1,6 +1,6 @@
 # 60% Hall Effect Keyboard PCB (STM32G473)
 
-![Status](https://img.shields.io/badge/Status-Prototype-yellow)
+![Status](https://img.shields.io/badge/Status-Finished-brightgreen)
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
 **DBOARD** is an open-hardware 60% keyboard PCB designed for **Hall Effect (HE) switches**.
