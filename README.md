@@ -6,10 +6,10 @@
 DBOARD is an open-hardware 60% mechanical keyboard PCB designed for **Hall Effect (HE) magnetic switches**. Unlike traditional contact-based PCBs, this board functions as a high-speed sensor array, utilizing continuous analog magnetic field measurements to determine key actuation.
 
 ![Top View of Assembled PCB](assets/bottom_dboard.png)
-*(Caption: Rev1 board)*
+*(Rev1 board)*
 
 ![Bottom View of Assembled PCB](assets/top_dboard.png)
-*(Caption: Rev1 board showing STM32G473 and analog multiplexer layout)*
+*(Rev1 board showing STM32G473 and analog multiplexer layout)*
 
 ## Key Features
 * **Form Factor:** Standard 60% (GH60 compatible mounting)
