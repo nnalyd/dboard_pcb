@@ -15,7 +15,7 @@ DBOARD is an open-hardware 60% mechanical keyboard PCB designed for **Hall Effec
 * **Form Factor:** Standard 60% (GH60 compatible mounting)
 * **Rapid Trigger Support:** Continuous analog scanning allows for dynamic actuation/reset points (0.1mm - 4.0mm range).
 * **Architecture:** 16:1 Analog Multiplexers reduce MCU pin requirements while maintaining high scanning frequency.
-* 
+
 ## Hardware Specifications
 
 | Component | Part Number | Purpose |
